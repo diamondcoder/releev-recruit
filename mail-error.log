@@ -1,0 +1,8 @@
+[2026-05-06 00:06:36] ADMIN EMAIL FAILED: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for idamcsey.gmail.com failed: No such host is known. 
+[2026-05-06 00:06:36] USER EMAIL FAILED: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for idamcsey.gmail.com failed: No such host is known. 
+[2026-05-06 00:13:42] ADMIN EMAIL FAILED: SMTP Error: Could not authenticate.
+[2026-05-06 00:13:43] USER EMAIL FAILED: SMTP Error: Could not authenticate.
+[2026-05-06 00:15:02] ADMIN EMAIL FAILED: SMTP Error: Could not authenticate.
+[2026-05-06 00:15:03] USER EMAIL FAILED: SMTP Error: Could not authenticate.
+[2026-05-06 00:19:37] ADMIN EMAIL FAILED: SMTP Error: Could not authenticate.
+[2026-05-06 00:19:38] USER EMAIL FAILED: SMTP Error: Could not authenticate.

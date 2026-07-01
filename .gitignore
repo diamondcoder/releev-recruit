@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+.env.*
+*.local
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Uploads and generated content
+uploads/*
+!uploads/.gitkeep
+!uploads/applications/
+!uploads/applications/.gitkeep
+!uploads/cvs/
+!uploads/cvs/.gitkeep
